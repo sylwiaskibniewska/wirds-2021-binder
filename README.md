@@ -4,3 +4,5 @@ Aby repozytorium stało się obrazem, który będzie zawierał R wraz z określo
 
 + 'runtime.txt' -- powinien zawierać wersję R wraz z datą, np. r-3.6-yyyy-mm-dd' lub r-yyyy-mm-dd (wtedy domyślnie R 3.6)
 + 'install.R' -- lista pakietów do instalacji
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sylwiaskibniewska/wirds-2021-binder/main?filepath=Rstudio)
